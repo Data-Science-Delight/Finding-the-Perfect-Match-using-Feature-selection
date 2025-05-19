@@ -9,7 +9,8 @@ Feature selection methods like  Chi-Square and ANOVA F-test were used, to identi
 
   
 🔍 Key Techniques Used
-✅ Data Cleaning – Removed duplicates
+  
+  ✅ Data Cleaning – Removed duplicates
 
 ✅ Label & One-Hot Encoding
 
